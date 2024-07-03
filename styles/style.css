@@ -1,0 +1,21 @@
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+div{
+    background-color: rgba(244, 15, 15, 0.438);
+    padding:10px;
+    margin:10px;
+
+}
+li{
+    margin-left:20px;
+}
+.one{
+    color:blueviolet;
+    border:4px solid black;
+    background-color: white;
+    margin: 10px ;
+}
